@@ -1,7 +1,7 @@
 import { Formik, Field, Form } from 'formik';
 import * as Yup from 'yup';
 import classNames from 'classnames';
-import {ToastContainer, toast, Flip} from 'react-toastify';
+import {toast, Flip} from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './_form.scss';
 
